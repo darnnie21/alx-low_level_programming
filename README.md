@@ -11,5 +11,4 @@ The folders below are projects done during the course:
 
 |     Project Name     | Description |
 | -------------------- | ----------- |
-| `[0x00-hello_world]` | Aims at learning the different compilation phases of **C language** using **gcc**, <br /> what an entry point is, use of certain basic commands(puts, printf). |
-
+| `[0x00-hello_world](https://github.com/darnnie21/alx-low_level_programming/tree/master/0x00-hello_world)` | Aims at learning the different compilation phases of **C language** using **gcc**, <br /> what an entry point is, use of certain basic commands(puts, printf). |
